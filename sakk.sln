@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sakk", "sakk\sakk.csproj", "{0A697462-3C2F-468D-8AB2-BB298891D2FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A697462-3C2F-468D-8AB2-BB298891D2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A697462-3C2F-468D-8AB2-BB298891D2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A697462-3C2F-468D-8AB2-BB298891D2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A697462-3C2F-468D-8AB2-BB298891D2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BF7DBF6-9A80-4A2A-885F-A38C032A9F16}
+	EndGlobalSection
+EndGlobal
